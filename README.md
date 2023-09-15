@@ -1,1 +1,3 @@
-# pyList_TO_cArr
+# python格式列表转换为c格式数组
+因为leetcode的测试样例是py格式的，c++调试每次都要手敲多维数组，太麻烦了
+支持.exe文件和库调用
